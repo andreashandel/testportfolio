@@ -1,0 +1,10 @@
+---
+title: "My website and data analysis portfolio"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+Welcome to my website and data analysis portfolio. 
+
+Please use the menu bar above to look around.
